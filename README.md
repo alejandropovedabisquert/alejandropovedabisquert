@@ -8,14 +8,12 @@ Web developer enfocado en FrontEnd - convierto diseños en experiencias web ráp
 
 ## ⭐ Proyectos destacados
 Heart Of Fantasy (Todavía en desarrollo) — [https://github.com/alejandropovedabisquert/heartoffantasywebsite](https://github.com/alejandropovedabisquert/heartoffantasywebsite)
+- Stack: Next.js, TypeScript, Tailwind CSS, Vercel.
+- Demo: [https://heartoffantasywebsite.vercel.app/](https://heartoffantasywebsite.vercel.app/)
 
-Proyecto: sitio web sobre un juego MMORPG que está en desarrollo.
-
-Qué hice: maquetado responsive, optimización de recursos y despliegue en Vercel.
-
-Tech: Next.js, Tailwind CSS, Vercel.
-
-Demo: [https://heartoffantasywebsite.vercel.app/](https://heartoffantasywebsite.vercel.app/)
+GameHub — [https://github.com/alejandropovedabisquert/gamehub](https://github.com/alejandropovedabisquert/gamehub)
+- Stack: Angular 20, TypeScript, SCSS, Vercel.
+- Demo: [https://heartoffantasywebsite.vercel.app/](https://gamehub-three-lime.vercel.app/)
 
 ## 🔭 Actualmente aprendiendo
 - Next.js avanzado
