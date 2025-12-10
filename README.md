@@ -7,7 +7,7 @@ Web developer enfocado en FrontEnd - convierto diseños en experiencias web ráp
 - Control de versiones: Git, GitHub/Gitlab
 
 ## ⭐ Proyectos destacados
-Heart Of Fantasy — [https://github.com/alejandropovedabisquert/heartoffantasywebsite](https://github.com/alejandropovedabisquert/heartoffantasywebsite)
+Heart Of Fantasy (Todavía em desarrollo) — [https://github.com/alejandropovedabisquert/heartoffantasywebsite](https://github.com/alejandropovedabisquert/heartoffantasywebsite)
 
 Proyecto: sitio web con Next.js y Tailwind CSS.
 
