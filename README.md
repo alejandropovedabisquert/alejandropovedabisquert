@@ -19,6 +19,7 @@ Demo: [https://heartoffantasywebsite.vercel.app/](https://heartoffantasywebsite.
 
 ## 🔭 Actualmente aprendiendo
 - Next.js avanzado
+- Las bases de NodeJs/Express
 - Profundizar en patrones y algoritmos básicos de JavaScript
 - Accesibilidad web (WCAG) y testing de accesibilidad
 
