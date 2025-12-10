@@ -9,7 +9,7 @@ Web developer enfocado en FrontEnd - convierto diseños en experiencias web ráp
 ## ⭐ Proyectos destacados
 Heart Of Fantasy (Todavía en desarrollo) — [https://github.com/alejandropovedabisquert/heartoffantasywebsite](https://github.com/alejandropovedabisquert/heartoffantasywebsite)
 
-Proyecto: sitio web con Next.js y Tailwind CSS.
+Proyecto: sitio web sobre un juego MMORPG que está en desarrollo.
 
 Qué hice: maquetado responsive, optimización de recursos y despliegue en Vercel.
 
