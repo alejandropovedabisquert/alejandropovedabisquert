@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola 👋, soy Alejandro
+Web developer enfocado en FrontEnd - convierto diseños en experiencias web rápidas, accesibles y mantenibles.
 
-<!--
-**alejandropovedabisquert/alejandropovedabisquert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech stack
+- Lenguajes: JavaScript, TypeScript, JQuery, PHP, HTML5, CSS3 / SCSS
+- Frameworks / Librerías: React, Next.js, Tailwind CSS y (Angular - básico)
+- Control de versiones: Git, GitHub/Gitlab
 
-Here are some ideas to get you started:
+## ⭐ Proyectos destacados
+Heart Of Fantasy — [https://github.com/alejandropovedabisquert/heartoffantasywebsite](https://github.com/alejandropovedabisquert/heartoffantasywebsite)
+  Proyecto: sitio web con Next.js y Tailwind CSS.  
+  Qué hice: maquetado responsive, optimización de recursos y despliegue en Vercel.  
+  Tech: Next.js, Tailwind CSS, Vercel.
+  Demo: [https://heartoffantasywebsite.vercel.app/](https://heartoffantasywebsite.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Actualmente aprendiendo
+- Next.js avanzado
+- Profundizar en patrones y algoritmos básicos de JavaScript
+- Accesibilidad web (WCAG) y testing de accesibilidad
+
+## 📫 Contacto
+- Email: alejandropovedabisquer@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/alejandro-poveda-bisquert/](https://www.linkedin.com/in/alejandro-poveda-bisquert/)
+- Portfolio: [https://alejandropoveda.dev/](https://alejandropoveda.dev/)
