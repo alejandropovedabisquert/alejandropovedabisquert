@@ -2,7 +2,7 @@
 Web developer enfocado en FrontEnd - convierto diseños en experiencias web rápidas, accesibles y mantenibles.
 
 ## 🛠 Tech stack
-- Lenguajes: JavaScript, TypeScript, JQuery, PHP, HTML5, CSS3 / SCSS
+- Lenguajes: JavaScript, TypeScript, PHP, HTML5, CSS3 / SCSS
 - Frameworks / Librerías: React, Next.js, Tailwind CSS y (Angular - básico)
 - Control de versiones: Git, GitHub/Gitlab
 
