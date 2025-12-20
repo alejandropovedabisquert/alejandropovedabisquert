@@ -1,19 +1,19 @@
 # Hola 👋, soy Alejandro
-Web developer enfocado en FrontEnd - convierto diseños en experiencias web rápidas, accesibles y mantenibles.
+Web developer enfocado en FrontEnd - Me especializo en transformar ideas en aplicaciones web diferentes y accesibles para todos.
 
 ## 🛠 Tech stack
 - Lenguajes: JavaScript, TypeScript, PHP, HTML5, CSS3 / SCSS
-- Frameworks / Librerías: React, Next.js, Tailwind CSS y (Angular - básico)
-- Control de versiones: Git, GitHub/Gitlab
+- Frameworks / Librerías: React, Next.js, Tailwind CSS, (Angular - básico), (Laravel - básico)
+- Control de versiones: Git, GitHub/Gitlab, Postman
 
 ## ⭐ Proyectos destacados
 Heart Of Fantasy (Todavía en desarrollo) — [https://github.com/alejandropovedabisquert/heartoffantasywebsite](https://github.com/alejandropovedabisquert/heartoffantasywebsite)
-- Stack: Next.js, TypeScript, Tailwind CSS, Vercel.
+- Stack: Next.js, TypeScript, Tailwind CSS.
 - Demo: [https://heartoffantasywebsite.vercel.app/](https://heartoffantasywebsite.vercel.app/)
 
 GameHub — [https://github.com/alejandropovedabisquert/gamehub](https://github.com/alejandropovedabisquert/gamehub)
-- Stack: Angular 20, TypeScript, SCSS, Vercel.
-- Demo: [https://heartoffantasywebsite.vercel.app/](https://gamehub-three-lime.vercel.app/)
+- Stack: Angular 20, TypeScript, SCSS.
+- Demo: [https://gamehub-three-lime.vercel.app/](https://gamehub-three-lime.vercel.app/)
 
 ## 🔭 Actualmente aprendiendo
 - Next.js avanzado
