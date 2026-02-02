@@ -9,7 +9,7 @@ Web developer enfocado en FrontEnd - Me especializo en transformar ideas en apli
 ## ⭐ Proyectos destacados
 Heart Of Fantasy (Todavía en desarrollo) — [https://github.com/alejandropovedabisquert/heartoffantasywebsite](https://github.com/alejandropovedabisquert/heartoffantasywebsite)
 - Stack: Next.js, TypeScript, Tailwind CSS.
-- Demo: [https://heartoffantasywebsite.vercel.app/](https://heartoffantasywebsite.vercel.app/)
+- Demo: [https://www.heartoffantasy.com/](https://www.heartoffantasy.com/)
 
 GameHub — [https://github.com/alejandropovedabisquert/gamehub](https://github.com/alejandropovedabisquert/gamehub)
 - Stack: Angular 20, TypeScript, SCSS.
